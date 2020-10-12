@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'American Typerwriter';
+    src: url('../media/font/AmericanTypewriterRegular.ttf');
+  }
+  
+  .pageContainer {
+    text-align: center;
+    padding: 20px;
+    display: block;
+    height: 50vh;
+    background-image: url('../media/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titleText {
+    .title {
+        font-size: 60px;
+    }
+    color: white;
+    font-family: 'American Typewriter', serif;
+    font-size: 40px;
+    font-weight: 600;
+    vertical-align: middle;
+    height: 50vh;
+}
